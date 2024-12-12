@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm P.M. Sai Akassh</h1> 
 <h3 align="center">A passionate Front-End developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akasshpm&label=Profile%20views&color=0e75b6&style=flat" alt="akasshpm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akasshpm" alt="akasshpm" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=akasshpm&label=Profile%20views&color=0e75b6&style=flat" alt="akasshpm" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -36,16 +34,15 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 <br>
-<div align="center"
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akasshpm&show_icons=true&locale=en&layout=compact" alt="akasshpm"/></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akasshpm&show_icons=true&locale=en" alt="akasshpm"/></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akasshpm&" alt="akasshpm"/></p>
-</div>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akasshpm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akasshpm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akasshpm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /></p>
+ <br>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akasshpm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></p>
+
 </div>
+
+
+
+
