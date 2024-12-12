@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://instagram.com/akassh_pm" target="blank">
 <img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="akassh_pm"/></a>
-<a href="www.linkedin.com/in/p-m-sai-akassh-680395257" target="blank">
+<a href="https://linkedin.com/in/akasshpm" target="blank">
 <img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="akasshpm"/></a>
 <a href="mailto:akasshpm@gmail.com" target="blank">
  <img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="akasshpm@gmail.com"/></a>
