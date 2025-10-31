@@ -5,7 +5,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=akasshpm&label=Profile%20views&color=0e75b6&style=flat" alt="akasshpm" /> </p><br><br>
 
-<img width=900 height=400  src="https://cdni.iconscout.com/illustration/premium/thumb/coding-illustration-svg-download-png-3576478.png">
+<p align="center"><img width=900 height=400  src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"></p>
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Python**
