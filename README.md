@@ -1,11 +1,11 @@
-<p align="center"><img width=900 height=400  src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"></p>
+<p align="center"><img width=900 height=400  src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"></p>
 
 <h1 align="center">Hi 👋, I'm P M Sai Akassh</h1> 
 <h3 align="center">A passionate Front-End developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=akasshpm&label=Profile%20views&color=0e75b6&style=flat" alt="akasshpm" /> </p><br><br>
 
-<p align="center"><img width=900 height=400  src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"></p>
+<p align="center"><img  src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_6804917.png"></p>
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Python**
